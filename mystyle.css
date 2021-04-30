@@ -1,4 +1,17 @@
-#main {
+#current {
+  background-color: lightgray;
+  opacity: 0.5;
+  float: left;
+}
+
+#next {
+  background-color: lightgray;
+  opacity: 0.5;
+  float: right;
+}
+
+
+#time {
   background-color: lightgray;
   opacity: 0.5;
 }
