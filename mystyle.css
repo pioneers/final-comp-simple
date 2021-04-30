@@ -1,17 +1,15 @@
 #current {
-  background-color: lightgray;
-  opacity: 0.5;
+  background-color: rgba(211,211,211,0.3);
   float: left;
 }
 
 #next {
-  background-color: lightgray;
-  opacity: 0.5;
-  float: right;
+  background-color: rgba(211,211,211,0.3);
+  float: left;
 }
 
 
 #time {
-  background-color: lightgray;
-  opacity: 0.5;
+  background-color: rgba(211,211,211,0.3);
+  float: right;
 }
